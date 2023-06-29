@@ -11,7 +11,7 @@ The site is live at [here](https://albithomson.github.io/Portfolio/).
  * Easy to modify
 
 ### Sections 
-✔️ Home
+✔️ Home /
 ✔️ About me
 ✔️ Skills 
 ✔️ Interest
